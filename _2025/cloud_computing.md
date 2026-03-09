@@ -11,7 +11,7 @@ Welcome to our session today which is about Cloud Computing.
 
 The goals for today are to:
 1. Explain what cloud computing is and how it can be useful.
-2. Give two demos including one where we speed up some Blender renders.
+2. Give ~~two~~ three demos including one where we speed up some Blender renders.
 
 ## Before Cloud Computing
 * As far back as the 60s, "time sharing" / client-server models show how computing advances are often costly / unevenly distributed; model changed in the 80s/90s when cheap **microcomputers** become ubiquitous.
