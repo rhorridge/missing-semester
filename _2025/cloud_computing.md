@@ -94,6 +94,9 @@ Anyway, EC2 (and others) have a [few different types](https://aws.amazon.com/ec2
 * **Accelerated Computing:** eg P3, P2, G3, F1
 * **Storage Optimized:** eg H1, I3, D2
 
+
+Perhaps [this](https://cloudprice.net/aws/ec2) is a better interface to compare hardware / pricing!
+
 ### Pricing
 
 <div class="note">
