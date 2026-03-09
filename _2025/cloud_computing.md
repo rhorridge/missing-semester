@@ -98,7 +98,7 @@ Anyway, EC2 (and others) have a [few different types](https://aws.amazon.com/ec2
 ### Pricing
 
 <div class="note">
-These pictures are from Missing Semester 2024; these prices have probably come down since!  [This](https://cloudprice.net/aws/ec2) is likely a more up-to-date interface to compare hardware / pricing!
+These pictures are from Missing Semester 2024; these prices have probably come down since!  <a href="https://cloudprice.net/aws/ec2">This</a> is likely a more up-to-date interface to compare hardware / pricing!
 
 </div>
 
