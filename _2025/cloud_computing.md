@@ -119,7 +119,7 @@ Remember: if something is persisting, you're probably paying for it.
 ---
 
 # Demo Time!
-Lets explore two use cases together!
+Lets explore ~~two~~ three use cases together!
 
 ## Demo 1: Micro Instance
 * You can follow [this](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html) to get a low-spec machine running on a free tier
