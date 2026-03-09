@@ -95,12 +95,11 @@ Anyway, EC2 (and others) have a [few different types](https://aws.amazon.com/ec2
 * **Storage Optimized:** eg H1, I3, D2
 
 
-Perhaps [this](https://cloudprice.net/aws/ec2) is a better interface to compare hardware / pricing!
-
 ### Pricing
 
 <div class="note">
-These pictures are from Missing Semester 2024; these prices have probably come down since!
+These pictures are from Missing Semester 2024; these prices have probably come down since!  [This](https://cloudprice.net/aws/ec2) is likely a more up-to-date interface to compare hardware / pricing!
+
 </div>
 
 * On demand pricing
